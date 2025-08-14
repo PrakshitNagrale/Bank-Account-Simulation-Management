@@ -1,11 +1,11 @@
-*  Bank Account Management System 
+## Bank Account Management System 
 
 - A **menu-driven Java console application** for managing bank customers, accounts, and transactions.  
 - It allows customer registration, account creation, deposits, withdrawals, balance inquiries, and transaction history viewing — all with secure password handling and input validation.
 
 ---
 
-* Features
+## Features
 
 - **Customer Registration** – Create new customers with unique IDs.
 - **Account Opening** – Link accounts to existing customers with account type selection.
@@ -18,7 +18,7 @@
 
 
 
-*  Technologies Used
+## Technologies Used
 
 - **Java 17+** (compatible with Java 8+)
 - **jBCrypt** for password hashing
@@ -26,7 +26,8 @@
 - **LocalDateTime API** for timestamps
 - **Custom Exceptions** for clear error reporting
 
-* Menu Options
+## Menu Options
+
 1. Register New Customer
 2. Open New Bank Account
 3. View Customer Account Details
@@ -37,7 +38,7 @@
 8. Exit Application
 
 
-* Example Output
+## Example Output
 
  - ====================================
 -  WELCOME TO BANKING SERVICE     
@@ -90,9 +91,9 @@ Sahil
    - Please Enter Account Balance:
    1000
    - Please Select Account Type:
-  -  1.SAVING
-   - 2.CURRENT
-   - 3.FIXED_DEPOSIT :
+      -  1.SAVING
+      - 2.CURRENT
+       - 3.FIXED_DEPOSIT :
 1
    - Please Set Your Password:
    1234
@@ -148,10 +149,10 @@ Sahil
    - Please select an operation to perform (1-8):
    7
    - Please Enter Account Number:
-   - 112345
+112345
    - Please Enter Password:
-   - 1234
-- 
+1234
+
    
   --------Transaction History--------
   -  Account No  :112345
