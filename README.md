@@ -5,7 +5,7 @@
 
 ---
 
-# Features
+* Features
 
 - **Customer Registration** – Create new customers with unique IDs.
 - **Account Opening** – Link accounts to existing customers with account type selection.
@@ -18,7 +18,7 @@
 
 
 
-# Technologies Used
+*  Technologies Used
 
 - **Java 17+** (compatible with Java 8+)
 - **jBCrypt** for password hashing
@@ -26,7 +26,7 @@
 - **LocalDateTime API** for timestamps
 - **Custom Exceptions** for clear error reporting
 
-# Menu Options
+* Menu Options
 1. Register New Customer
 2. Open New Bank Account
 3. View Customer Account Details
@@ -37,20 +37,21 @@
 8. Exit Application
 
 
-# Example Output
+* Example Output
 
-====================================
-WELCOME TO BANKING SERVICE     
-====================================
+ - ====================================
+-  WELCOME TO BANKING SERVICE     
+- ====================================
 1. Register New Customer
 2. Open New Bank Account
 3. View Customer Account Details
 4. Deposit Money
 5. Withdraw Money
 6. Check Account Balance
-7. View Transaction History
-   8 Exit Application
-   ====================================
+7. View Transaction History 
+8.  Exit Application
+  
+====================================
   -  Please select an operation to perform (1-8):
 1
   -  Please Enter Customer Id:
@@ -66,8 +67,9 @@ Sahil
   -  CustomerId: 1
   -  Customer Name: Sahil
    - PhoneNo: 876459998
-   - Address: Near MDR mall chandrpur Maharashtra 442402
-   ===========================================
+   - Address: Near MDR mall Delhi India
+ 
+===========================================
 
 1. Register New Customer
 2. Open New Bank Account
@@ -75,9 +77,10 @@ Sahil
 4. Deposit Money
 5. Withdraw Money
 6. Check Account Balance
-7. View Transaction History
-   8 Exit Application
-   ====================================
+7. View Transaction History 
+8.  Exit Application
+
+====================================
   -  Please select an operation to perform (1-8):
    2
    - Please Enter Account Number:
@@ -103,7 +106,8 @@ Sahil
    - Account Type: SAVING
    - Current Balance: 1000.0
    - Last Transaction: No transactions yet!
-   ===========================================
+   
+===========================================
 1. Register New Customer
 2. Open New Bank Account
 3. View Customer Account Details
@@ -129,7 +133,8 @@ Sahil
    - Updated Balance: 2000.0
    - Transaction Id: 4229c0d1-8afe-4176-8d89-b8804248f162
    - Transaction Time: 14-Aug-2025 03:45 am
-   ===========================================
+   
+===========================================
 1. Register New Customer
 2. Open New Bank Account
 3. View Customer Account Details
@@ -139,7 +144,7 @@ Sahil
 7. View Transaction History 
 8. Exit Application
 
-   ====================================
+ ====================================
    - Please select an operation to perform (1-8):
    7
    - Please Enter Account Number:
@@ -168,9 +173,10 @@ Sahil
 7. View Transaction History 
 8. Exit Application
 
-   ====================================
+ ====================================
    - Please select an operation to perform (1-8):
    8
-   -----Banking Application Terminated-----
+  
+-----Banking Application Terminated-----
 
 
